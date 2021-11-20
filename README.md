@@ -1,4 +1,5 @@
 # *tasmana*
 **tas**c **mana**gement, is not "tasmania"
 ##
-please go to issue page, then you can observe my tasc.
+please go to issue / project page, then you can observe my tasc.
+##
