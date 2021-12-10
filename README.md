@@ -1,4 +1,4 @@
-# *tasmana*
+# *tasmana-devel*
 ## about tasmana-devel
 tasmanian devil
 
@@ -19,3 +19,4 @@ please go to issue / project page, then you can observe my task.
 |O|Other|
 |R|Rent|
 |U|University|
+|Y|Buy|
