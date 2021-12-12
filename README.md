@@ -1,5 +1,5 @@
-# *tasmana-devel*
-## about tasmana-devel
+# *tasmana*
+## about tasmana
 tasmanian devil
 
 **TAS**k **MANA**gement, is not "tasmania"
