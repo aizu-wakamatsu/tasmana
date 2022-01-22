@@ -51,3 +51,15 @@ Priority
 |Local|Lowest|
 |Extra|Interrupt|
 |Not in Service|Don't have to do<br>Pending<br>Waiting<br>Done|
+
+Status
+
+|Name|Status|
+|:-:|:-:|
+|Scheduled|Upcoming task|
+|Boarding|Ready to do, now|
+|Departed|In progress|
+|Arrived|Done|
+|Delay|Delayed, but not in progress|
+|Cancelled|Cancelled, no need to do|
+|Unknown|Pending?|
