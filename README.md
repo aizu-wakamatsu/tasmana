@@ -37,3 +37,16 @@ prefix of each task, colour is for corresponding JR Line
 |Z|Little|\*|Fukuen Line|#3e3b91|
 
 \* "Z" has the same meaning of Z-channel in Slack.
+
+## hobart
+
+Priority
+
+|Name|Priority|
+|:-:|:-:|
+|Shinkansen|Highest|
+|Limited Express|Higher|
+|Special Rapid|Normal|
+|Rapid|Lower|
+|Local|Lowest|
+|Extra|Interrupt|
