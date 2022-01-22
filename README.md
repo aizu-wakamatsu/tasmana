@@ -35,3 +35,5 @@ prefix of each task, colour is for corresponding JR Line
 |X|Experimental|e**X**perimental|San-yō Line (Okayama Area)|#599ee7|
 |Y|Unmotivated|**や**る気のない|Kure Line|#c9921e|
 |Z|Little|**TWEET**|Fukuen Line|#3e3b91|
+
+Z, for "tweet", has the same meaning of Z-channel at Slack.
