@@ -1,12 +1,12 @@
-# *tasmana*
-## about tasmana
-tasmanian devil
+# *tasmania*
+### ☆THE ISLAND STATE OF AUSTRALIA☆
+## devil
+this is my **tas**k **mana**ger.
 
-**TAS**k **MANA**gement, is not "tasmania"
-##
-please go to issue / project page, then you can observe my task.
-##
-## Legend, prefix
+please go to issue / project page, and observe my task.
+
+## beef
+prefix of each task
 |Alphabet|Word|
 |:-:|:-:|
 |B|Borrow|
