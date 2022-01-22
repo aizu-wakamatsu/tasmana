@@ -34,6 +34,6 @@ prefix of each task, colour is for corresponding JR Line
 |W|Research Assistant||Kinokuni Line|#63adc0|
 |X|Experimental|e**X**perimental|San-yō Line (Okayama Area)|#599ee7|
 |Y|Unmotivated|**や**る気のない|Kure Line|#c9921e|
-|Z|Little||Fukuen Line|#3e3b91|
+|Z|Little|\*|Fukuen Line|#3e3b91|
 
-"Z" has the same meaning of Z-channel in Slack.
+\* "Z" has the same meaning of Z-channel in Slack.
