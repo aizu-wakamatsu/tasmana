@@ -50,7 +50,7 @@ Priority
 |Rapid|Lower|
 |Local|Lowest|
 |Extra|Interrupt|
-|Not in Service|Don't have to do<br>Pending<br>Waiting<br>Done<br>not the task|
+|Not in Service|Don't have to do<br>Pending<br>Waiting<br>not the task|
 
 Status
 
