@@ -9,14 +9,14 @@ please go to issue / project page, and observe my task.
 prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and Hiroshima.
 |Alphabet|Word|Description|Corresponding JR Line|Colour|
 |:-:|:-:|:-:|:-:|:-:|
-|A|Assignment||Hokuriku Line / JR Kyōto Line / JR Kōbe Line<br>San-yō Line (Kansai Area) / Akō Line (Kansai Area)|#3d71b8|
+|A|Assignment||Hokuriku Line<br>JR Kyōto Line<br>JR Kōbe Line<br>San-yō Line (Kansai Area)<br>Akō Line (Kansai Area)|#3d71b8|
 |B|Borrow||Kosei Line|#63afe4|
 |C|Car||Kusatsu Line|#81ad51|
 |D|Document||Nara Line|#ab7f38|
-|E|External||Sagano Line / San-in Line (Kansai Area)|#7a85bf|
+|E|External||Sagano Line<br>San-in Line (Kansai Area)|#7a85bf|
 |F|Find||Ōsaka Higashi Line|#567593|
-|G|Gpioblink||JR Takarazuka Line / Fukuchiyama Line|#efc42e|
-|H|Homework||JR Tōzai Line / Gakkentoshi Line|#ce4d89|
+|G|Gpioblink||JR Takarazuka Line<br>Fukuchiyama Line|#efc42e|
+|H|Homework||JR Tōzai Line<br>Gakkentoshi Line|#ce4d89|
 |I|Important||Kakogawa Line|#63ac8e|
 |J|Job||Bantan Line|#973757|
 |K|Exam|試**験**|Kishin Line|#d15b33|
@@ -50,7 +50,7 @@ Priority
 |Rapid|Lower|
 |Local|Lowest|
 |Extra|Interrupt|
-|Not in Service|Don't have to do<br>Pending<br>Waiting<br>Done|
+|Not in Service|Don't have to do<br>Pending<br>Waiting<br>Done<br>not the task|
 
 Status
 
