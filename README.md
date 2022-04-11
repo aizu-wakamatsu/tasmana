@@ -19,9 +19,9 @@ prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and 
 |H|Homework||JR Tōzai Line<br>Gakkentoshi Line|#ce4d89|
 |I|Important||Kakogawa Line|#63ac8e|
 |J|Event|**J**oin|Bantan Line|#973757|
-|K|Exam|試**験**|Kishin Line|#d15b33|
+|K|Exam||Kishin Line|#d15b33|
 |L|Circle|circ**L**e|Maizuru Line|#e69b3a|
-|M|Waiting|**待**つ|Seto-Ōhashi Line|#3f74bc|
+|M|Waiting||Seto-Ōhashi Line|#3f74bc|
 |N|Not Important||Akō Line (Okayama Area)|#ce6962|
 |O|Other||Ōsaka Loop Line|#ce4b52|
 |P|Pending||JR Yumesaki Line|#2c4095|
@@ -33,7 +33,7 @@ prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and 
 |V|University|uni**V**ersity|Kansai Line|#4e499b|
 |W|Job (Not SA/TA)|**W**ork|Kinokuni Line|#63adc0|
 |X|Experimental|e**X**perimental|San-yō Line (Okayama Area)|#599ee7|
-|Y|Unmotivated|**や**る気のない|Kure Line|#c9921e|
+|Y|Unmotivated||Kure Line|#c9921e|
 |Z|Little|\*|Fukuen Line|#3e3b91|
 
 \* "Z" has the same meaning of Z-channel in Slack.
