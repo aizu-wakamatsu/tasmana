@@ -1,5 +1,6 @@
 # *tasmania*
-### ☆THE ISLAND STATE OF AUSTRALIA☆
+### ~THE ISLAND STATE OF AUSTRALIA~
+### ☆TASK MANAGER☆
 ## devil
 this is my **tas**k **mana**ger.
 
