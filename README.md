@@ -6,7 +6,7 @@ this is my **tas**k **mana**ger.
 please go to issue / project page, and observe my task.
 
 ## beef
-prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and Hiroshima.
+prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and Hiroshima area.
 |Alphabet|Word|Description|Corresponding JR Line|Colour|
 |:-:|:-:|:-:|:-:|:-:|
 |A|Assignment||Hokuriku Line<br>JR Kyōto Line<br>JR Kōbe Line<br>San-yō Line (Kansai Area)<br>Akō Line (Kansai Area)|#3d71b8|
