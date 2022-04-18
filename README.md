@@ -18,7 +18,7 @@ the width of column must be optimized for Kindle Fire.
 
 prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and Hiroshima area.
 |Alphabet|Description|Corresponding JR Line|Colour|
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |A|Attendance|Hokuriku Line<br>JR Kyōto Line<br>JR Kōbe Line<br>San-yō Line (Kansai Area)<br>Akō Line (Kansai Area)|#3d71b8|
 |B|Borrow|Kosei Line|#63afe4|
 |C|Circle|Kusatsu Line|#81ad51|
