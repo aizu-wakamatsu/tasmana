@@ -1,12 +1,12 @@
 # *tasmana*
 ### ~THE ISLAND STATE OF AUSTRALIA~
 ### ☆TASK MANAGER☆
-## devil
+## 🦇
 this is my **tas**k **mana**ger.
 
 please go to issue / project page, and observe my task.
 
-## beef
+## 🐄
 prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and Hiroshima area.
 |Alphabet|Word|Description|Corresponding JR Line|Colour|
 |:-:|:-:|:-:|:-:|:-:|
@@ -39,7 +39,7 @@ prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and 
 
 \* "Z" has the same meaning of Z-channel in Slack.
 
-## wine
+## 🍷
 
 Priority
 
