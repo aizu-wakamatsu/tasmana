@@ -24,32 +24,33 @@ prefix of each task, colour is for corresponding JR Line in Kansai, Okayama and 
 |A|Attendance|Hokuriku Line<br>JR Kyōto Line<br>JR Kōbe Line<br>San-yō Line (Kansai Area)<br>Akō Line (Kansai Area)|#3d71b8|
 |B|Borrow|Kosei Line|#63afe4|
 |C|Circle|Kusatsu Line|#81ad51|
-|D|Document|Nara Line|#ab7f38|
-|E|Exam|Sagano Line<br>San-in Line (Kansai Area)|#7a85bf|
-|F|Find||Ōsaka Higashi Line|#567593|
-|G|Gpioblink|JR Takarazuka Line<br>Fukuchiyama Line|#efc42e|
-|H|Homework||JR Tōzai Line<br>Gakkentoshi Line|#ce4d89|
-|I|Important note||Kakogawa Line|#63ac8e|
-|J|Job outside university|Bantan Line|#973757|
-|K|Car|Kishin Line|#d15b33|
+|D|Document to submit|Nara Line|#ab7f38|
+|E|Exercise|Sagano Line<br>San-in Line (Kansai Area)|#7a85bf|
+|F|Find|Ōsaka Higashi Line|#567593|
+|G|Graduate school|JR Takarazuka Line<br>Fukuchiyama Line|#efc42e|
+|H|Homework / Quiz|JR Tōzai Line<br>Gakkentoshi Line|#ce4d89|
+|I|Important note|Kakogawa Line|#63ac8e|
+|J|Job / Intern|Bantan Line|#973757|
 |L|Laboratory|Maizuru Line|#e69b3a|
-|M|Mobility development|Seto-Ōhashi Line|#3f74bc|
 |N|Note|Akō Line (Okayama Area)|#ce6962|
-|O|Other||Ōsaka Loop Line|#ce4b52|
+|O|Other|Ōsaka Loop Line|#ce4b52|
 |P|Purchase|JR Yumesaki Line|#2c4095|
+|R|Rent|Hanwa Line|#e6952f|
+|S|Student assistant|Kansai-airport Line|#4279c0|
+|Y|Year-end / Term-end / Midterm|Kure Line|#c9921e|
+|Z|\*|Fukuen Line|#3e3b91|
+
+\* "Z" has the same meaning of Z-channel in Slack.
+<!--
+|K|Car|Kishin Line|#d15b33|
+|M|Mobility development|Seto-Ōhashi Line|#3f74bc|
 |Q|Quiz|Yamatoji Line|#62ff74|
-|R|Rent||Hanwa Line|#e6952f|
-|S|Student assistant||Kansai-airport Line|#4279c0|
 |T|Tari|Wakayama Line|#e1a7ba|
 |U|University|Man-yō Mahoroba Line|#b33a36|
 |V|Voucher|uni**V**ersity|Kansai Line|#4e499b|
-|W|Work in university|**W**ork|Kinokuni Line|#63adc0|
-|X|Experiment|e**X**perimental|San-yō Line (Okayama Area)|#599ee7|
-|Y|Year-end / Term-end|Kure Line|#c9921e|
-|Z|Zt|Fukuen Line|#3e3b91|
-
-\* "Z" has the same meaning of Z-channel in Slack.
-
+|W|Work in university|Kinokuni Line|#63adc0|
+|X|Experiment|San-yō Line (Okayama Area)|#599ee7|
+-->
 ### Priority
 
 |Name|Priority|
