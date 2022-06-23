@@ -1,8 +1,7 @@
 # *tasmana*
 ### ~THE ISLAND STATE OF AUSTRALIA~
 ### ☆TASK MANAGER☆
-## !IMPORTANT!
-Operation suspended due to inefficient using of this.
+
 ## 🦇
 this is my **tas**k **mana**ger.
 
